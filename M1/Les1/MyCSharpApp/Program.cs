@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 class Program
 {
@@ -7,3 +7,7 @@ class Program
         Console.WriteLine("Welcome to the basics of programming!");
     }
 }
+
+// dotnet new console -o MyCSharpApp
+// cd MyCSharpApp
+// dotnet run
